@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47743886639",
+    "firebase_url": "https://fir-autenticator.firebaseio.com",
+    "project_id": "fir-autenticator",
+    "storage_bucket": "fir-autenticator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47743886639:android:cc89f5c362e137f3",
+        "android_client_info": {
+          "package_name": "br.unicamp.ft.c155041.firebaseautentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47743886639-n5o1p3sl924lcdjuqq86maoqambinccg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CwomLrp2ajtGNOjYFCNvsgpsGG46Mbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47743886639-n5o1p3sl924lcdjuqq86maoqambinccg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
